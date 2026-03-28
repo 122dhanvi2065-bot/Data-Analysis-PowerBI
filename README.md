@@ -1,10 +1,10 @@
-# Amazon Sales Analysis using Power BI
+# Myntra Sales Analysis using Power BI
 
 ## 1. Project Overview
 Brief introduction about the project and what problem it solves.
 
 ## 2. Objectives
-- Analyze Amazon sales data
+- Analyze Myntra sales data
 - Identify top performing product categories
 - Understand customer ratings and pricing trends
 - Create an interactive Power BI dashboard
@@ -53,10 +53,10 @@ Example:
 ## 8. Project Files
 Repository structure:
 
-Amazon-Sales-Analysis-PowerBI
+Myntra-Sales-Analysis-PowerBI
 │
 ├── Dataset
-│   └── amazon_sales_data.xlsx
+│   └── Myntra_sales_data.xlsx
 │
 ├── Dashboard
 │   └── Dhanvi_K_powerbi.pbix
